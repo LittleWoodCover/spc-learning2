@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/zipkin-services/hi/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin-services/servicehi/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin-services/servicemi/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+</project>
